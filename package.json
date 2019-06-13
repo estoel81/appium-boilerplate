@@ -1,0 +1,10 @@
+{
+  "name": "appium_boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "codeceptjs": "^2.1.4",
+    "webdriverio": "^5.2.2"
+  }
+}
